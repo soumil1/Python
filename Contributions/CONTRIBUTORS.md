@@ -17,3 +17,4 @@ Add your name and link to your GitHub account below after you have contributed t
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 
 Raina Jangid-i have made changes in python.github is the "facebook" of git
+Rajit_Kuthiala(Grammatical Changes in Leap Year Program)
